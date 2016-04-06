@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GoTools.iml" filepath="$PROJECT_DIR$/GoTools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gotools_demo/app.iml" filepath="$PROJECT_DIR$/gotools_demo/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goutility/goutility.iml" filepath="$PROJECT_DIR$/goutility/goutility.iml" />
+    </modules>
+  </component>
+</project>
